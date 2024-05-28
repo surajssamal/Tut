@@ -12,10 +12,6 @@ first git clone the project
   npm install nodemon
   cd Blues
 ```
-    
-## Authors
-
-- [@surajssamal](https://www.github.com/surajssamal)
 
 
 ## Deployment
@@ -27,4 +23,9 @@ To deploy this project run
   or 
   node server.js
 ```
+
+## Authors
+
+- [@surajssamal](https://www.github.com/surajssamal)
+
 
